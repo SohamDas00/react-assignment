@@ -29,20 +29,17 @@ Users can:
 
 📦 Installation & Setup
 1️⃣ Clone the Repository
-
 sh
 Copy
 Edit
 git clone https://github.com/SohamDas00/react-assignment.git
 cd react-assignment
 2️⃣ Install Dependencies
-
 sh
 Copy
 Edit
 npm install
 3️⃣ Run the App
-
 sh
 Copy
 Edit
